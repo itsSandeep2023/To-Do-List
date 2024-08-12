@@ -18,3 +18,5 @@ The **ToDo List App** is a simple application that allows users to manage their 
    git clone git@github.com:itsSandeep2023/To-Do-List.git
    cd To-Do-List
    ```
+
+2. Open index.html
