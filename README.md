@@ -15,5 +15,6 @@ The **ToDo List App** is a simple application that allows users to manage their 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/todolist-app.git
-   cd todolist-app
+   git clone git@github.com:itsSandeep2023/To-Do-List.git
+   cd To-Do-List
+   ```
